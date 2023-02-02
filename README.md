@@ -1,3 +1,5 @@
 My first readme
-This is so cool
-Awesome
+
+My first repository as a alx student
+
+I love :computing: :gaming:. 
